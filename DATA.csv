@@ -1,0 +1,276 @@
+Provinces Name,Provinces Code,Series Name,Series Code,2013 [YR2013]
+"Bali, Prop.",ID.BA,Human Development Index,IDX.HDI,74.11
+"Banten, Prop.",ID.BT,Human Development Index,IDX.HDI,71.9
+"Bengkulu, Prop.",ID.BE,Human Development Index,IDX.HDI,74.41
+"DI Yogyakarta, Prop.",ID.YO,Human Development Index,IDX.HDI,77.37
+"DKI Jakarta, Prop.",ID.JK,Human Development Index,IDX.HDI,78.59
+"Gorontalo, Prop.",ID.GO,Human Development Index,IDX.HDI,71.77
+"Jambi, Prop.",ID.JA,Human Development Index,IDX.HDI,74.35
+"Jawa Barat, Prop.",ID.JR,Human Development Index,IDX.HDI,73.58
+"Jawa Tengah, Prop.",ID.JT,Human Development Index,IDX.HDI,74.05
+"Jawa Timur, Prop.",ID.JI,Human Development Index,IDX.HDI,73.54
+"Kalimantan Barat, Prop.",ID.KB,Human Development Index,IDX.HDI,70.93
+"Kalimantan Selatan, Prop.",ID.KS,Human Development Index,IDX.HDI,71.74
+"Kalimantan Tengah, Prop.",ID.KT,Human Development Index,IDX.HDI,75.68
+"Kalimantan Timur, Prop.",ID.KI,Human Development Index,IDX.HDI,77.33
+"Kepulauan Bangka-Belitung, Prop.",ID.BB,Human Development Index,IDX.HDI,74.29
+"Kepulauan Riau, Prop.",ID.KR,Human Development Index,IDX.HDI,76.56
+"Lampung, Prop.",ID.LA,Human Development Index,IDX.HDI,72.87
+"Maluku Utara, Prop.",ID.MU,Human Development Index,IDX.HDI,70.63
+"Maluku, Prop.",ID.MA,Human Development Index,IDX.HDI,72.7
+"Nanggroe Aceh Darussalam, Prop.",ID.AC,Human Development Index,IDX.HDI,73.05
+"Nusa Tenggara Barat, Prop.",ID.NB,Human Development Index,IDX.HDI,67.73
+"Nusa Tenggara Timur, Prop.",ID.NT,Human Development Index,IDX.HDI,68.77
+"Papua Barat, Prop.",ID.IB,Human Development Index,IDX.HDI,70.62
+"Papua, Prop.",ID.PA,Human Development Index,IDX.HDI,66.25
+"Riau, Prop.",ID.RI,Human Development Index,IDX.HDI,77.25
+"Sulawesi Barat, Prop.",ID.SR,Human Development Index,IDX.HDI,71.41
+"Sulawesi Selatan, Prop.",ID.SE,Human Development Index,IDX.HDI,73.28
+"Sulawesi Tengah, Prop.",ID.ST,Human Development Index,IDX.HDI,72.54
+"Sulawesi Tenggara, Prop.",ID.SG,Human Development Index,IDX.HDI,71.73
+"Sulawesi Utara, Prop.",ID.SW,Human Development Index,IDX.HDI,75.55
+"Sumatera Barat, Prop.",ID.SB,Human Development Index,IDX.HDI,75.01
+"Sumatera Selatan, Prop.",ID.SL,Human Development Index,IDX.HDI,74.36
+"Sumatera Utara, Prop.",ID.SU,Human Development Index,IDX.HDI,77.36
+"Cilegon, Kota",ID.BT.CL,Human Development Index,IDX.HDI,76.31
+"Lebak, Kab.",ID.BT.LE,Human Development Index,IDX.HDI,68.82
+"Pandeglang, Kab.",ID.BT.PA,Human Development Index,IDX.HDI,69.64
+"Serang, Kab.",ID.BT.SE,Human Development Index,IDX.HDI,70.25
+"Serang, Kota",ID.BT.SR,Human Development Index,IDX.HDI,73.12
+"Tangerang Selatan, Kota",ID.BT.TS,Human Development Index,IDX.HDI,77.13
+"Tangerang, Kab.",ID.BT.TM,Human Development Index,IDX.HDI,72.82
+"Tangerang, Kota",ID.BT.TN,Human Development Index,IDX.HDI,76.05
+"Adm. Kepulauan Seribu, Kab.",ID.JK.KS,Human Development Index,IDX.HDI,71.73
+"Jakarta Barat, Kota",ID.JK.JB,Human Development Index,IDX.HDI,79.69
+"Jakarta Pusat, Kota",ID.JK.JP,Human Development Index,IDX.HDI,79.37
+"Jakarta Selatan, Kota",ID.JK.JS,Human Development Index,IDX.HDI,80.47
+"Jakarta Timur, Kota",ID.JK.JT,Human Development Index,IDX.HDI,80.07
+"Jakarta Utara, Kota",ID.JK.JU,Human Development Index,IDX.HDI,78.54
+"Boalemo, Kab.",ID.GO.BO,Human Development Index,IDX.HDI,69.78
+"Bone Bolango, Kab.",ID.GO.BB,Human Development Index,IDX.HDI,73.24
+"Gorontalo Utara, Kab.",ID.GO.GU,Human Development Index,IDX.HDI,70.81
+"Gorontalo, Kab.",ID.GO.GM,Human Development Index,IDX.HDI,71.45
+"Gorontalo, Kota",ID.GO.GR,Human Development Index,IDX.HDI,74.71
+"Pohuwato, Kab.",ID.GO.PO,Human Development Index,IDX.HDI,71.32
+"Batang Hari, Kab.",ID.JA.BA,Human Development Index,IDX.HDI,74.25
+"Bungo, Kab.",ID.JA.BT,Human Development Index,IDX.HDI,73.44
+"Jambi, Kota",ID.JA.JA,Human Development Index,IDX.HDI,77.52
+"Kerinci, Kab.",ID.JA.KE,Human Development Index,IDX.HDI,75.49
+"Merangin, Kab.",ID.JA.SB,Human Development Index,IDX.HDI,73.28
+"Muaro Jambi, Kab.",ID.JA.MJ,Human Development Index,IDX.HDI,74.1
+"Sarolangun, Kab.",ID.JA.SA,Human Development Index,IDX.HDI,74.08
+"Sungai Penuh, Kota",ID.JA.SP,Human Development Index,IDX.HDI,78.11
+"Tanjung Jabung Barat, Kab.",ID.JA.TJ,Human Development Index,IDX.HDI,74.21
+"Tanjung Jabung Timur, Kab.",ID.JA.TT,Human Development Index,IDX.HDI,73.03
+"Tebo, Kab.",ID.JA.TE,Human Development Index,IDX.HDI,73.38
+"Bandung Barat, Kab.",ID.JR.BB,Human Development Index,IDX.HDI,74.59
+"Bandung, Kab.",ID.JR.BD,Human Development Index,IDX.HDI,75.11
+"Bandung, Kota",ID.JR.BN,Human Development Index,IDX.HDI,77.32
+"Banjar, Kota",ID.JR.BJ,Human Development Index,IDX.HDI,72.84
+"Bekasi, Kab.",ID.JR.BS,Human Development Index,IDX.HDI,74.8
+"Bekasi, Kota",ID.JR.BK,Human Development Index,IDX.HDI,77.67
+"Bogor, Kab.",ID.JR.BR,Human Development Index,IDX.HDI,73.92
+"Bogor, Kota",ID.JR.BG,Human Development Index,IDX.HDI,76.82
+"Ciamis, Kab.",ID.JR.CS,Human Development Index,IDX.HDI,72.68
+"Cianjur, Kab.",ID.JR.CJ,Human Development Index,IDX.HDI,70.38
+"Cimahi, Kota",ID.JR.CI,Human Development Index,IDX.HDI,76.86
+"Cirebon, Kab.",ID.JR.CR,Human Development Index,IDX.HDI,70.25
+"Cirebon, Kota",ID.JR.CE,Human Development Index,IDX.HDI,76.67
+"Depok, Kota",ID.JR.DE,Human Development Index,IDX.HDI,80.14
+"Garut, Kab.",ID.JR.GA,Human Development Index,IDX.HDI,72.43
+"Indramayu, Kab.",ID.JR.IN,Human Development Index,IDX.HDI,69.52
+"Karawang, Kab.",ID.JR.KA,Human Development Index,IDX.HDI,71.56
+"Kuningan, Kab.",ID.JR.KU,Human Development Index,IDX.HDI,72.47
+"Majalengka, Kab.",ID.JR.MA,Human Development Index,IDX.HDI,71.9
+"Pangandaran, Kab.",ID.JR.PN,Human Development Index,IDX.HDI,70.74
+"Purwakarta, Kab.",ID.JR.PU,Human Development Index,IDX.HDI,72.75
+"Subang, Kab.",ID.JR.SB,Human Development Index,IDX.HDI,72.1
+"Sukabumi, Kab.",ID.JR.SM,Human Development Index,IDX.HDI,71.96
+"Sukabumi, Kota",ID.JR.SK,Human Development Index,IDX.HDI,76.16
+"Sumedang, Kab.",ID.JR.SD,Human Development Index,IDX.HDI,73.58
+"Tasikmalaya, Kab.",ID.JR.TM,Human Development Index,IDX.HDI,73.26
+"Tasikmalaya, Kota",ID.JR.TS,Human Development Index,IDX.HDI,75.71
+"Banjarnegara, Kab.",ID.JT.BN,Human Development Index,IDX.HDI,71.13
+"Banyumas, Kab.",ID.JT.BY,Human Development Index,IDX.HDI,73.96
+"Batang, Kab.",ID.JT.BT,Human Development Index,IDX.HDI,72.03
+"Blora, Kab.",ID.JT.BL,Human Development Index,IDX.HDI,72.1
+"Boyolali, Kab.",ID.JT.BO,Human Development Index,IDX.HDI,71.88
+"Brebes, Kab.",ID.JT.BR,Human Development Index,IDX.HDI,69.85
+"Cilacap, Kab.",ID.JT.CI,Human Development Index,IDX.HDI,73.34
+"Demak, Kab.",ID.JT.DE,Human Development Index,IDX.HDI,73.85
+"Grobogan, Kab.",ID.JT.GR,Human Development Index,IDX.HDI,72.37
+"Jepara, Kab.",ID.JT.JE,Human Development Index,IDX.HDI,74.13
+"Karanganyar, Kab.",ID.JT.KA,Human Development Index,IDX.HDI,75.27
+"Kebumen, Kab.",ID.JT.KB,Human Development Index,IDX.HDI,72.25
+"Kendal, Kab.",ID.JT.KN,Human Development Index,IDX.HDI,72.03
+"Klaten, Kab.",ID.JT.KL,Human Development Index,IDX.HDI,74.91
+"Kudus, Kab.",ID.JT.KU,Human Development Index,IDX.HDI,74.09
+"Magelang, Kab.",ID.JT.MM,Human Development Index,IDX.HDI,73.67
+"Magelang, Kota",ID.JT.MG,Human Development Index,IDX.HDI,77.91
+"Pati, Kab.",ID.JT.PA,Human Development Index,IDX.HDI,74.58
+"Pekalongan, Kab.",ID.JT.PM,Human Development Index,IDX.HDI,73.14
+"Pekalongan, Kota",ID.JT.PK,Human Development Index,IDX.HDI,75.75
+"Pemalang, Kab.",ID.JT.PL,Human Development Index,IDX.HDI,71.26
+"Purbalingga, Kab.",ID.JT.PB,Human Development Index,IDX.HDI,73.49
+"Purworejo, Kab.",ID.JT.PW,Human Development Index,IDX.HDI,74.18
+"Rembang, Kab.",ID.JT.RE,Human Development Index,IDX.HDI,73.53
+"Salatiga, Kota",ID.JT.SA,Human Development Index,IDX.HDI,77.54
+"Semarang, Kab.",ID.JT.SM,Human Development Index,IDX.HDI,75.48
+"Semarang, Kota",ID.JT.SE,Human Development Index,IDX.HDI,78.54
+"Sragen, Kab.",ID.JT.SG,Human Development Index,IDX.HDI,72.31
+"Sukoharjo, Kab.",ID.JT.SH,Human Development Index,IDX.HDI,74.91
+"Surakarta, Kota",ID.JT.SK,Human Development Index,IDX.HDI,79.1
+"Tegal, Kab.",ID.JT.TM,Human Development Index,IDX.HDI,72.22
+"Tegal, Kota",ID.JT.TE,Human Development Index,IDX.HDI,75.02
+"Temanggung, Kab.",ID.JT.TG,Human Development Index,IDX.HDI,75
+"Wonogiri, Kab.",ID.JT.WG,Human Development Index,IDX.HDI,73.09
+"Wonosobo, Kab.",ID.JT.WS,Human Development Index,IDX.HDI,71.9
+"Bangkalan, Kab.",ID.JI.BK,Human Development Index,IDX.HDI,66.19
+"Banyuwangi, Kab.",ID.JI.BW,Human Development Index,IDX.HDI,71.02
+"Batu, Kota",ID.JI.BA,Human Development Index,IDX.HDI,76.09
+"Blitar, Kab.",ID.JI.BR,Human Development Index,IDX.HDI,74.92
+"Blitar, Kota",ID.JI.BL,Human Development Index,IDX.HDI,78.7
+"Bojonegoro, Kab.",ID.JI.BJ,Human Development Index,IDX.HDI,68.32
+"Bondowoso, Kab.",ID.JI.BD,Human Development Index,IDX.HDI,65.39
+"Gresik, Kab.",ID.JI.GR,Human Development Index,IDX.HDI,76.36
+"Jember, Kab.",ID.JI.JE,Human Development Index,IDX.HDI,66.6
+"Jombang, Kab.",ID.JI.JO,Human Development Index,IDX.HDI,74.47
+"Kediri, Kab.",ID.JI.KR,Human Development Index,IDX.HDI,73.29
+"Kediri, Kota",ID.JI.KD,Human Development Index,IDX.HDI,77.8
+"Lamongan, Kab.",ID.JI.LA,Human Development Index,IDX.HDI,71.81
+"Lumajang, Kab.",ID.JI.LU,Human Development Index,IDX.HDI,69.5
+"Madiun, Kab.",ID.JI.MN,Human Development Index,IDX.HDI,71.46
+"Madiun, Kota",ID.JI.MD,Human Development Index,IDX.HDI,78.17
+"Magetan, Kab.",ID.JI.MT,Human Development Index,IDX.HDI,74.34
+"Malang, Kab.",ID.JI.MG,Human Development Index,IDX.HDI,72.34
+"Malang, Kota",ID.JI.ML,Human Development Index,IDX.HDI,78.78
+"Mojokerto, Kab.",ID.JI.MK,Human Development Index,IDX.HDI,75.26
+"Mojokerto, Kota",ID.JI.MJ,Human Development Index,IDX.HDI,78.66
+"Nganjuk, Kab.",ID.JI.NJ,Human Development Index,IDX.HDI,72.49
+"Ngawi, Kab.",ID.JI.NW,Human Development Index,IDX.HDI,70.86
+"Pacitan, Kab.",ID.JI.PC,Human Development Index,IDX.HDI,73.36
+"Pamekasan, Kab.",ID.JI.PK,Human Development Index,IDX.HDI,67.17
+"Pasuruan, Kab.",ID.JI.PR,Human Development Index,IDX.HDI,69.77
+"Pasuruan, Kota",ID.JI.PS,Human Development Index,IDX.HDI,74.75
+"Ponorogo, Kab.",ID.JI.PG,Human Development Index,IDX.HDI,72.61
+"Probolinggo, Kab.",ID.JI.PL,Human Development Index,IDX.HDI,65.19
+"Probolinggo, Kota",ID.JI.PO,Human Development Index,IDX.HDI,75.94
+"Sampang, Kab.",ID.JI.SA,Human Development Index,IDX.HDI,62.39
+"Sidoarjo, Kab.",ID.JI.SD,Human Development Index,IDX.HDI,78.15
+"Situbondo, Kab.",ID.JI.SB,Human Development Index,IDX.HDI,65.73
+"Sumenep, Kab.",ID.JI.SM,Human Development Index,IDX.HDI,66.89
+"Surabaya, Kota",ID.JI.SR,Human Development Index,IDX.HDI,78.97
+"Trenggalek, Kab.",ID.JI.TR,Human Development Index,IDX.HDI,74.44
+"Tuban, Kab.",ID.JI.TB,Human Development Index,IDX.HDI,70.04
+"Tulungagung, Kab.",ID.JI.TG,Human Development Index,IDX.HDI,74.79
+"Bengkayang, Kab.",ID.KB.BE,Human Development Index,IDX.HDI,69.38
+"Kapuas Hulu, Kab.",ID.KB.KH,Human Development Index,IDX.HDI,70.97
+"Kayong Utara, Kab.",ID.KB.KU,Human Development Index,IDX.HDI,66.83
+"Ketapang, Kab.",ID.KB.KE,Human Development Index,IDX.HDI,69.74
+"Kubu Raya, Kab.",ID.KB.KR,Human Development Index,IDX.HDI,69.32
+"Landak, Kab.",ID.KB.LA,Human Development Index,IDX.HDI,69.58
+"Melawi, Kab.",ID.KB.ME,Human Development Index,IDX.HDI,69.86
+"Pontianak, Kab.",ID.KB.PR,Human Development Index,IDX.HDI,70.13
+"Pontianak, Kota",ID.KB.PN,Human Development Index,IDX.HDI,74.64
+"Sambas, Kab.",ID.KB.SM,Human Development Index,IDX.HDI,66.81
+"Sanggau, Kab.",ID.KB.SN,Human Development Index,IDX.HDI,70.3
+"Sekadau, Kab.",ID.KB.SE,Human Development Index,IDX.HDI,68.99
+"Singkawang, Kota",ID.KB.SK,Human Development Index,IDX.HDI,70.66
+"Sintang, Kab.",ID.KB.SI,Human Development Index,IDX.HDI,69.81
+"Balangan, Kab.",ID.KS.BA,Human Development Index,IDX.HDI,68.3
+"Banjar Baru, Kota",ID.KS.BB,Human Development Index,IDX.HDI,76.86
+"Banjar, Kab.",ID.JR.BA,Human Development Index,IDX.HDI,72.3
+"Banjarmasin, Kota",ID.KS.BM,Human Development Index,IDX.HDI,75.28
+"Barito Kuala, Kab.",ID.KS.BK,Human Development Index,IDX.HDI,69.31
+"Hulu Sungai Selatan, Kab.",ID.KS.HS,Human Development Index,IDX.HDI,72
+"Hulu Sungai Tengah, Kab.",ID.KS.HT,Human Development Index,IDX.HDI,72.21
+"Hulu Sungai Utara, Kab.",ID.KS.HU,Human Development Index,IDX.HDI,70.58
+"Kota Baru, Kab.",ID.KS.KB,Human Development Index,IDX.HDI,73.15
+"Tabalong, Kab.",ID.KS.TB,Human Development Index,IDX.HDI,71.56
+"Tanah Bumbu, Kab.",ID.KS.TN,Human Development Index,IDX.HDI,71.82
+"Tanah Laut, Kab.",ID.KS.TL,Human Development Index,IDX.HDI,73.46
+"Tapin, Kab.",ID.KS.TP,Human Development Index,IDX.HDI,72.18
+"Barito Selatan, Kab.",ID.KT.BS,Human Development Index,IDX.HDI,74.54
+"Barito Timur, Kab.",ID.KT.BT,Human Development Index,IDX.HDI,73.86
+"Barito Utara, Kab.",ID.KT.BU,Human Development Index,IDX.HDI,76.13
+"Gunung Mas, Kab.",ID.KT.GM,Human Development Index,IDX.HDI,74.26
+"Kapuas, Kab.",ID.KT.KA,Human Development Index,IDX.HDI,74.48
+"Katingan, Kab.",ID.KT.KG,Human Development Index,IDX.HDI,73.83
+"Kotawaringin Barat, Kab.",ID.KT.KB,Human Development Index,IDX.HDI,75.11
+"Kotawaringin Timur, Kab.",ID.KT.KT,Human Development Index,IDX.HDI,75.4
+"Lamandau, Kab.",ID.KT.LA,Human Development Index,IDX.HDI,73.29
+"Murung Raya, Kab.",ID.KT.MR,Human Development Index,IDX.HDI,73.98
+"Palangkaraya, Kota",ID.KT.PR,Human Development Index,IDX.HDI,79.52
+"Pulang Pisau, Kab.",ID.KT.PP,Human Development Index,IDX.HDI,73.18
+"Seruyan, Kab.",ID.KT.SE,Human Development Index,IDX.HDI,73.36
+"Sukamara, Kab.",ID.KT.SU,Human Development Index,IDX.HDI,73.24
+"Balikpapan, Kota",ID.KI.BA,Human Development Index,IDX.HDI,79.87
+"Berau, Kab.",ID.KI.BE,Human Development Index,IDX.HDI,75.83
+"Bontang, Kota",ID.KI.BO,Human Development Index,IDX.HDI,78.4
+"Kutai Barat, Kab.",ID.KI.KB,Human Development Index,IDX.HDI,74.61
+"Kutai Kartanegara, Kab.",ID.KI.KU,Human Development Index,IDX.HDI,74.8
+"Kutai Timur, Kab.",ID.KI.KT,Human Development Index,IDX.HDI,74.23
+"Mahakam Hulu, Kab.",ID.KI.MH,Human Development Index,IDX.HDI,73
+"Pasir, Kab.",ID.KI.PA,Human Development Index,IDX.HDI,76.56
+"Penajam Paser Utara, Kab.",ID.KI.PP,Human Development Index,IDX.HDI,74.82
+"Samarinda, Kota",ID.KI.SA,Human Development Index,IDX.HDI,78.79
+"Bulungan, Kab.",ID.KI.BU,Human Development Index,IDX.HDI,76.31
+"Malinau, Kab.",ID.KI.MA,Human Development Index,IDX.HDI,74.33
+"Nunukan, Kab.",ID.KI.NU,Human Development Index,IDX.HDI,75.13
+"Tana Tidung, Kab.",ID.KU.TT,Human Development Index,IDX.HDI,73.2
+"Tarakan, Kota",ID.KI.TA,Human Development Index,IDX.HDI,78.07
+"Bangka Barat, Kab.",ID.BB.BB,Human Development Index,IDX.HDI,71.46
+"Bangka Selatan, Kab.",ID.BB.BS,Human Development Index,IDX.HDI,68.58
+"Bangka Tengah, Kab.",ID.BB.BG,Human Development Index,IDX.HDI,72.64
+"Bangka, Kab.",ID.BB.BA,Human Development Index,IDX.HDI,74.05
+"Belitung Timur, Kab.",ID.BB.BT,Human Development Index,IDX.HDI,73.46
+"Belitung, Kab.",ID.BB.BE,Human Development Index,IDX.HDI,74.82
+"Pangkal Pinang, Kota",ID.BB.PP,Human Development Index,IDX.HDI,77.3
+"Batam, Kota",ID.KR.BA,Human Development Index,IDX.HDI,78.73
+"Bintan, Kab.",ID.KR.BN,Human Development Index,IDX.HDI,76.1
+"Karimun, Kab.",ID.KR.KA,Human Development Index,IDX.HDI,74.95
+"Kepulauan Anambas, Kab.",ID.KR.KP,Human Development Index,IDX.HDI,70.48
+"Lingga, Kab.",ID.KR.LI,Human Development Index,IDX.HDI,72.41
+"Natuna, Kab.",ID.KR.NA,Human Development Index,IDX.HDI,72.25
+"Tanjung Pinang, Kota",ID.KR.TP,Human Development Index,IDX.HDI,76.19
+"Bandar Lampung, Kota",ID.LA.BL,Human Development Index,IDX.HDI,77.17
+"Lampung Barat, Kab.",ID.LA.LB,Human Development Index,IDX.HDI,70.37
+"Lampung Selatan, Kab.",ID.LA.LS,Human Development Index,IDX.HDI,71.25
+"Lampung Tengah, Kab.",ID.LA.LT,Human Development Index,IDX.HDI,72.3
+"Lampung Timur, Kab.",ID.LA.LI,Human Development Index,IDX.HDI,72.14
+"Lampung Utara, Kab.",ID.LA.LU,Human Development Index,IDX.HDI,71.7
+"Mesuji, Kab.",ID.LA.MS,Human Development Index,IDX.HDI,68.79
+"Metro, Kota",ID.LA.ME,Human Development Index,IDX.HDI,77.53
+"Pesawaran, Kab.",ID.LA.PS,Human Development Index,IDX.HDI,71.25
+"Pesisir Barat, Kab.",ID.LA.PB,Human Development Index,IDX.HDI,68.43
+"Pringsewu, Kab.",ID.LA.PI,Human Development Index,IDX.HDI,73.22
+"Tanggamus, Kab.",ID.LA.TA,Human Development Index,IDX.HDI,72.66
+"Tulang Bawang Barat, Kab.",ID.LA.TB,Human Development Index,IDX.HDI,70.38
+"Tulang Bawang, Kab.",ID.LA.TL,Human Development Index,IDX.HDI,71.86
+"Way Kanan, Kab.",ID.LA.WK,Human Development Index,IDX.HDI,71.08
+"Halmahera Barat, Kab.",ID.MU.HB,Human Development Index,IDX.HDI,68.56
+"Halmahera Selatan, Kab.",ID.MU.HS,Human Development Index,IDX.HDI,69.45
+"Halmahera Tengah, Kab.",ID.MU.HT,Human Development Index,IDX.HDI,70.55
+"Halmahera Timur, Kab.",ID.MU.HI,Human Development Index,IDX.HDI,69.42
+"Halmahera Utara, Kab.",ID.MU.HU,Human Development Index,IDX.HDI,70.36
+"Kepulauan Sula, Kab.",ID.MU.KS,Human Development Index,IDX.HDI,69.59
+"Kepulauan Tidore, Kota",ID.MU.TK,Human Development Index,IDX.HDI,70.8
+"Pulau Morotai, Kab.",ID.MU.PM,Human Development Index,IDX.HDI,67.03
+"Pulau Taliabu, Kab.",ID.MU.PT,Human Development Index,IDX.HDI,64.99
+"Ternate, Kota",ID.MU.TE,Human Development Index,IDX.HDI,78.44
+"Ambon, Kota",ID.MA.AM,Human Development Index,IDX.HDI,79.58
+"Buru Selatan, Kab.",ID.MA.BS,Human Development Index,IDX.HDI,70.23
+"Buru, Kab.",ID.MA.BU,Human Development Index,IDX.HDI,70.79
+"Kepulauan Aru, Kab.",ID.MA.KA,Human Development Index,IDX.HDI,71.29
+"Maluku Barat Daya, Kab.",ID.MA.MB,Human Development Index,IDX.HDI,67.67
+"Maluku Tengah, Kab.",ID.MA.MT,Human Development Index,IDX.HDI,71.81
+"Maluku Tenggara Barat, Kab.",ID.MA.MU,Human Development Index,IDX.HDI,69.87
+"Maluku Tenggara, Kab.",ID.MA.MG,Human Development Index,IDX.HDI,73.6
+"Seram Bagian Barat, Kab.",ID.MA.SB,Human Development Index,IDX.HDI,70.75
+"Seram Bagian Timur, Kab.",ID.MA.ST,Human Development Index,IDX.HDI,69.11
+"Tual, Kota",ID.MA.TA,Human Development Index,IDX.HDI,77.91
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
